@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
+  font-family: 'Courier New', Courier, monospace;
   background: linear-gradient(90deg, #240b36 , #c31432 );
 }
 
